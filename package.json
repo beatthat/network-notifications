@@ -1,7 +1,7 @@
 {
   "name": "network-notifications",
   "config": "beatthat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lightweight set of network notifications that allow different packages to share info about network status",
   "main": "index.js",
   "scripts": {
